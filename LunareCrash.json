@@ -1,4 +1,7 @@
 [
-  { "username": "tzyaa11", "password": "01", "roleusers": "Developer" },
-  { "username": "ganz", "password": "01", "roleusers": "Owner"}
+  {
+    "username": "admin",
+    "password": "12345",
+    "roleusers": "Owner"
+  }
 ]
