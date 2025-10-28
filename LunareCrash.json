@@ -1,4 +1,6 @@
 [
   {"username": "tzyaa11", "password": "001", "roleusers": "Developer"
+  },
+  {"username": "tzyaa", "password": "1", "roleusers": "users"
   }
 ]
