@@ -1,0 +1,25 @@
+{
+  "appName": "LunareCrashV1",
+  "version": "1.0.0",
+  "botToken": "8196717148:AAFef-qb3_VarM1bmMU9RMWs3JjOfb45Yu4",
+  "ownerId": "7319362466",
+  "bugApiEndpoint": "http://143.198.220.128:5003/api/6288983398947",
+  "sessionsActive": 5,
+  "bugs": [
+    {
+      "id": "blank",
+      "name": "Blank Crash",
+      "icon": "fas fa-bomb"
+    },
+    {
+      "id": "delay", 
+      "name": "Delay Hard",
+      "icon": "fas fa-clock"
+    },
+    {
+      "id": "freeze",
+      "name": "Freeze Andro", 
+      "icon": "fas fa-virus"
+    }
+  ]
+}
