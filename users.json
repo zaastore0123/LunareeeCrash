@@ -3,12 +3,14 @@
     "username": "tzyaa01",
     "password": "11", 
     "roleusers": "Developer",
-    "image": "https://files.catbox.moe/uqdujn.jpeg"
+    "image": "https://files.catbox.moe/uqdujn.jpeg",
+    "exp": "9999-99-99"
   },
   {
     "username": "ditzy",
     "password": "dit",
     "roleusers": "Owner",
     "image": "https://files.catbox.moe/te062o.jpg"
+    "exp": "2028-30-10"
   }
 ]
